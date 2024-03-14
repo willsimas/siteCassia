@@ -13,9 +13,14 @@
 }
 
 .contatoLink{
+    width: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.contatoLink img {
+    width: 100%;
 }
 
 #headerNav{
